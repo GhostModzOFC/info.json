@@ -1,14 +1,20 @@
 {
-  "data": {
-    "inicio": "2025-06-10",
-    "expirar": "2025-12-31"
-  },
   "login": {
-    "key": "ghostmod",
-    "dispositivosPermitidos": 1000000
+    "key": "123456",
+    "titulo": "GhostModZ",
+    "mensagem": "Key",
+    "botao": "Entrar"
   },
   "mod": {
-    "ativo": false,
-    "mensagemDesativado": "O mod está desativado. Acesse seu painel para mais informações."
+    "ativo": true,
+    "mensagemDesativado": "O mod está desativado no momento. Tente novamente mais tarde."
+  },
+  "data": {
+    "inicio": "2025-06-01",
+    "expirar": "2025-07-01"
+  },
+  "links": {
+    "youtube": "https://youtube.com/@GhostModz",
+    "telegram": "https://t.me/GhostModz"
   }
 }
