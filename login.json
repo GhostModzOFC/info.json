@@ -1,21 +1,19 @@
 {
   "login": {
-    "key": "123456",
-    "titulo": "GhostModZ",
-    "mensagem": "Key",
-    "dispositivosPermitidos": 1000000,
-    "botao": "Entrar"
+    "key": "SUAKEYSECRETA123",
+    "dispositivosPermitidos": 3
   },
   "mod": {
     "ativo": true,
-    "mensagemDesativado": "O mod está desativado no momento. Tente novamente mais tarde."
+    "mensagemDesativado": "O mod está temporariamente desativado para manutenção. Tente novamente mais tarde!"
   },
   "data": {
     "inicio": "2025-06-01",
-    "expirar": "2025-07-01"
+    "expirar": "2025-12-31"
   },
   "links": {
-    "youtube": "https://youtube.com/@GhostModz",
-    "telegram": "https://t.me/GhostModz"
+    "getkey": "https://seusite.com/obterkey",
+    "youtube": "https://youtube.com/@seucanal",
+    "telegram": "https://t.me/seugrupo"
   }
 }
