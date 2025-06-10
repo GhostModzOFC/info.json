@@ -3,7 +3,7 @@
     "key": "123456",
     "titulo": "GhostModZ",
     "mensagem": "Key",
-    "dispositivosPermitidos": 1000000
+    "dispositivosPermitidos": 1000000,
     "botao": "Entrar"
   },
   "mod": {
