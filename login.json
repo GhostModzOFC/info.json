@@ -1,6 +1,6 @@
 {
   "login": {
-    "key": "ghosmodz9x",
+    "key": "ghostmodz9x",
     "dispositivosPermitidos": 2000000
   },
   "mod": {
@@ -9,7 +9,7 @@
   },
   "data": {
     "inicio": "2025-06-01",
-    "expirar": "2025-06-20"
+    "expirar": "2025-06-10"
   },
   "links": {
     "getkey": "https://seusite.com/obterkey",
