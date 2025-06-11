@@ -5,7 +5,7 @@
   },
   "mod": {
     "ativo": true,
-    "mensagemDesativado": "O mod está temporariamente desativado para manutenção. Tente novamente mais tarde!"
+    "mensagemDesativado": "This mod is temporarily unavailable due to scheduled maintenance. Please try again shortly."
   },
   "data": {
     "inicio": "2025-06-01",
